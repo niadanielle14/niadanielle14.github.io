@@ -214,7 +214,7 @@ p {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 @media (max-width: 992px) {
